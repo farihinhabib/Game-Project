@@ -1,2 +1,2 @@
-# Game-Project
-An interactive game project created as part of my Bachelor of Computer Science (Graphics and Multimedia Software) studies. The project combines programming, game mechanics, and user interface design to deliver an engaging gameplay experience while applying core software development concepts.
+# Treasure-Diver Game
+An interactive C++ ocean adventure game where players collect treaures, avoid dangerous sea creatures and obstacles and manage limited oxygen tank to survive while earn high scores.
